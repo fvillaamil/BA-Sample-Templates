@@ -1,9 +1,8 @@
-
--- ============================================================================
--- Author:  <Author,,Name>
--- Created Date: <Create Date,,>
--- File Name: <file name,,>
--- Version Date: <Version Date,,>
--- Description: <Description,,>
+-- ============================================================================= 
+-- Author:  <Fernando Villaamil>
+-- Created Date: <01/10/2020>
+-- Description: <List Active Claims with Inactive Locations>
+-- File Name: WCACILOC Active Claims With Inactive Locations.rdl
+-- Updated By: <Bhanu P. Bhandari>
+-- Updated Date: <02/03/2020>
 -- =============================================================================
-
